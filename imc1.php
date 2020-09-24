@@ -31,3 +31,4 @@ $mensagem = "Obesidade III (mórbida)";
 
 echo "Sua Massa Corporal é: <b> $massa </b><br>";
 echo "Estado Atual: <b> $mensagem</b>";
+echo " Procure um medico se achar necessario</b>";
